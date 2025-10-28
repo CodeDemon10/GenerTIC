@@ -1,10 +1,37 @@
-<div align="center">
+### 🌟 Project Timeline
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🚀 August 2025</h3>
+<b>Project Launch</b><br/>
+Initial development begins<br/>
+Core features implemented
+</td>
+<td align="center" width="33%">
+<h3>📦 September 2025</h3>
+<b>Beta Release</b><br/>
+Testing phase begins<br/>
+Community feedback collection
+</td>
+<td align="center" width="33%">
+<h3>🎉 October 2025</h3>
+<b>Official Release v1.0</b><br/>
+VS Code Marketplace launch<br/>
+Full documentation available
+</td>
+</tr>
+</table>
+
+<br/><div align="center">
 
 # 🔷 RetroC
 
+<img src="https://raw.githubusercontent.com/VishalNandy17/retroc/main/assets/logo.png" alt="RetroC Logo" width="300px"/>
+
 ### *Solidity Contract Generator for the Modern Developer*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Lightning-Fast+Templates;Smart+Contract+Generation;Production-Ready+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Lightning-Fast+Templates;Smart+Contract+Generation;Production-Ready+Code;Web3+Development+Tool" alt="Typing SVG" />
 
 [![Version](https://img.shields.io/badge/version-1.0.0-6366f1.svg?style=for-the-badge)](https://github.com/yourusername/retroc/releases)
 [![License](https://img.shields.io/badge/license-MIT-10b981.svg?style=for-the-badge)](LICENSE)
@@ -13,7 +40,11 @@
 [![Stars](https://img.shields.io/github/stars/VishalNandy17/retroc?style=for-the-badge&logo=github&color=fbbf24)](https://github.com/VishalNandy17/retroc/stargazers)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/demo.gif" alt="RetroC Demo" width="800px"/>
+  <img src="https://raw.githubusercontent.com/VishalNandy17/retroc/main/assets/logo.png" alt="RetroC Logo" width="200px"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VishalNandy17/retroc/main/assets/demo.gif" alt="RetroC Demo" width="800px"/>
 </p>
 
 **[Installation](#-installation) • [Quick Start](#-quick-start) • [Templates](#-available-templates) • [Documentation](#-documentation) • [Contributing](#-contributing)**
@@ -25,6 +56,12 @@
 <br/>
 
 ## 🎯 What is RetroC?
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/VishalNandy17/retroc/main/assets/logo.png" alt="RetroC" width="150px"/>
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -1200,7 +1237,7 @@ chore: update dependencies
 <td width="25%" align="center">
 
 ### 🎯 Version 1.1
-**Q1 2025**
+**Q4 2025**
 
 ✅ ERC4626 Vault Templates  
 ✅ Upgradeable Contracts  
@@ -1212,7 +1249,7 @@ chore: update dependencies
 <td width="25%" align="center">
 
 ### 🚀 Version 1.2
-**Q2 2025**
+**Q1 2026**
 
 🔄 AI-Powered Suggestions  
 🔄 Gas Optimization Hints  
@@ -1224,7 +1261,7 @@ chore: update dependencies
 <td width="25%" align="center">
 
 ### 💫 Version 2.0
-**Q3 2025**
+**Q2 2026**
 
 ⏳ Template Marketplace  
 ⏳ Community Templates  
@@ -1236,7 +1273,7 @@ chore: update dependencies
 <td width="25%" align="center">
 
 ### 🌟 Future
-**Q4 2025+**
+**Q3 2026+**
 
 💡 Smart Contract IDE  
 💡 Integrated Testing UI  
@@ -1254,27 +1291,27 @@ chore: update dependencies
 timeline
     title RetroC Development Timeline
     
-    2024 Q4 : Initial Release
+    2025 Q3 : Initial Release
             : ERC20, ERC721, ERC1155
             : Basic Test Generation
             : VS Code Integration
     
-    2025 Q1 : Template Enhancements
+    2025 Q4 : Template Enhancements
             : ERC4626 Vaults
             : Upgradeable Patterns
             : Custom Imports
     
-    2025 Q2 : AI Features
+    2026 Q1 : AI Features
             : Smart Suggestions
             : Gas Optimization
             : Security Scanning
     
-    2025 Q3 : Marketplace Launch
+    2026 Q2 : Marketplace Launch
             : Community Templates
             : Template Sharing
             : Monetization
     
-    2025 Q4 : Enterprise Features
+    2026 Q3 : Enterprise Features
             : Team Collaboration
             : Advanced Analytics
             : Custom Integrations
@@ -1559,7 +1596,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2025 RetroC Contributors
+Copyright (c) 2025 Vishal - RetroC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
