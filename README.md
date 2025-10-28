@@ -1,28 +1,3 @@
-### 🌟 Project Timeline
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>🚀 August 2025</h3>
-<b>Project Launch</b><br/>
-Initial development begins<br/>
-Core features implemented
-</td>
-<td align="center" width="33%">
-<h3>📦 September 2025</h3>
-<b>Beta Release</b><br/>
-Testing phase begins<br/>
-Community feedback collection
-</td>
-<td align="center" width="33%">
-<h3>🎉 October 2025</h3>
-<b>Official Release v1.0</b><br/>
-VS Code Marketplace launch<br/>
-Full documentation available
-</td>
-</tr>
-</table>
-
 <br/><div align="center">
 
 # 🔷 RetroC
