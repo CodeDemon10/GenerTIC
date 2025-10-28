@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/badge/license-MIT-10b981.svg?style=for-the-badge)](LICENSE)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.60+-8b5cf6.svg?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8+-f97316.svg?style=for-the-badge&logo=solidity)](https://soliditylang.org/)
-[![Stars](https://img.shields.io/github/stars/yourusername/retroc?style=for-the-badge&logo=github&color=fbbf24)](https://github.com/yourusername/retroc/stargazers)
+[![Stars](https://img.shields.io/github/stars/VishalNandy17/retroc?style=for-the-badge&logo=github&color=fbbf24)](https://github.com/VishalNandy17/retroc/stargazers)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/yourusername/demo.gif" alt="RetroC Demo" width="800px"/>
@@ -1286,7 +1286,7 @@ timeline
 
 Vote for features you want to see next!
 
-<a href="https://github.com/yourusername/retroc/discussions/categories/feature-requests">
+<a href="https://github.com/VishalNandy17/retroc/discussions/categories/feature-requests">
   <img src="https://img.shields.io/badge/Vote_on_Features-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Vote on Features" />
 </a>
 
@@ -1306,16 +1306,16 @@ Vote for features you want to see next!
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&repo=retroc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=10b981)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalNandy17&repo=retroc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=10b981)
 
 <br/>
 
 ### Project Metrics
 
-![Code Size](https://img.shields.io/github/languages/code-size/yourusername/retroc?style=for-the-badge&color=6366f1)
-![Contributors](https://img.shields.io/github/contributors/yourusername/retroc?style=for-the-badge&color=10b981)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/yourusername/retroc?style=for-the-badge&color=8b5cf6)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/retroc?style=for-the-badge&color=f59e0b)
+![Code Size](https://img.shields.io/github/languages/code-size/VishalNandy17/retroc?style=for-the-badge&color=6366f1)
+![Contributors](https://img.shields.io/github/contributors/VishalNandy17/retroc?style=for-the-badge&color=10b981)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/VishalNandy17/retroc?style=for-the-badge&color=8b5cf6)
+![Last Commit](https://img.shields.io/github/last-commit/VishalNandy17/retroc?style=for-the-badge&color=f59e0b)
 
 <br/>
 
@@ -1335,9 +1335,7 @@ Vote for features you want to see next!
 
 <div align="center">
 
-## 🏆 Hall of Fame
-
-### *Top Contributors*
+## 👨‍💻 About the Developer
 
 </div>
 
@@ -1345,33 +1343,47 @@ Vote for features you want to see next!
 
 <table>
 <tr>
-<td align="center">
-<a href="https://github.com/contributor1">
-<img src="https://avatars.githubusercontent.com/u/1?v=4" width="100px;" alt="Contributor 1"/><br />
-<sub><b>Contributor 1</b></sub>
-</a><br />
-💻 🎨 📖
+<td align="center" width="30%">
+<img src="https://github.com/VishalNandy17.png" width="200px;" style="border-radius: 50%; border: 4px solid #6366f1;" alt="Vishal"/><br />
+<h2><b>Vishal</b></h2>
+<h3>Blockchain Engineer</h3>
 </td>
-<td align="center">
-<a href="https://github.com/contributor2">
-<img src="https://avatars.githubusercontent.com/u/2?v=4" width="100px;" alt="Contributor 2"/><br />
-<sub><b>Contributor 2</b></sub>
-</a><br />
-🐛 💡 🔍
-</td>
-<td align="center">
-<a href="https://github.com/contributor3">
-<img src="https://avatars.githubusercontent.com/u/3?v=4" width="100px;" alt="Contributor 3"/><br />
-<sub><b>Contributor 3</b></sub>
-</a><br />
-📖 ✅ 🌐
-</td>
-<td align="center">
-<a href="https://github.com/contributor4">
-<img src="https://avatars.githubusercontent.com/u/4?v=4" width="100px;" alt="Contributor 4"/><br />
-<sub><b>Contributor 4</b></sub>
-</a><br />
-💻 🚧 👀
+<td width="70%">
+
+### 🚀 Blockchain Engineer | Web3 Enthusiast | Full Stack Developer
+
+Passionate about building decentralized applications and smart contract solutions. Focused on creating developer tools that enhance productivity and code quality in the blockchain ecosystem.
+
+#### 🎯 Focus Areas
+```
+🔷 WEB3              ⛓️ Blockchain
+💻 Full Stack        ☁️ Cloud Computing
+🔐 Smart Contracts   🛠️ Developer Tools
+```
+
+#### 🌐 Connect with Me
+
+<p>
+<a href="https://www.linkedin.com/in/vishal-nandy-7a04a427b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://vishal-phi-drab.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://x.com/vishal_nandy20/">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://github.com/VishalNandy17">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://instagram.com/__maybe.vishal__/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+</p>
+
+#### 💡 Philosophy
+> *"Building tools that empower developers to create secure, efficient, and innovative blockchain solutions."*
+
 </td>
 </tr>
 </table>
@@ -1380,7 +1392,7 @@ Vote for features you want to see next!
 
 <div align="center">
 
-**[Become a Contributor →](CONTRIBUTING.md)**
+**Want to collaborate?** Reach out through any of the platforms above!
 
 </div>
 
@@ -1523,9 +1535,9 @@ Learn more
 
 ### 🆘 Getting Help
 
-- 🐛 **Bug Reports**: [Create an issue](https://github.com/yourusername/retroc/issues/new?template=bug_report.md)
-- 💡 **Feature Requests**: [Request a feature](https://github.com/yourusername/retroc/issues/new?template=feature_request.md)
-- 💬 **Questions**: [GitHub Discussions](https://github.com/yourusername/retroc/discussions)
+- 🐛 **Bug Reports**: [Create an issue](https://github.com/VishalNandy17/retroc/issues/new?template=bug_report.md)
+- 💡 **Feature Requests**: [Request a feature](https://github.com/VishalNandy17/retroc/issues/new?template=feature_request.md)
+- 💬 **Questions**: [GitHub Discussions](https://github.com/VishalNandy17/retroc/discussions)
 - 📖 **Documentation**: [docs.retroc.dev](https://docs.retroc.dev)
 
 <br/>
@@ -1641,17 +1653,17 @@ For continuous innovation in smart contract development
 
 <br/>
 
-![RetroC Banner](https://raw.githubusercontent.com/yourusername/retroc/main/assets/banner.png)
+![RetroC Banner](https://raw.githubusercontent.com/VishalNandy17/retroc/main/assets/banner.png)
 
 <br/>
 
-**Made with ❤️ by the Solidity Community**
+**Made with ❤️ by Vishal**
 
 *RetroC - Retro Contracts, Modern Speed* ⚡
 
 <br/>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/retroc&type=Date)](https://star-history.com/#yourusername/retroc&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=VishalNandy17/retroc&type=Date)](https://star-history.com/#VishalNandy17/retroc&Date)
 
 <br/>
 
@@ -1661,7 +1673,7 @@ For continuous innovation in smart contract development
 
 <br/>
 
-**[🏠 Home](https://retroc.dev)** · **[📖 Docs](https://docs.retroc.dev)** · **[🐛 Report Bug](https://github.com/yourusername/retroc/issues)** · **[✨ Request Feature](https://github.com/yourusername/retroc/issues)**
+**[🏠 Home](https://retroc.dev)** · **[📖 Docs](https://docs.retroc.dev)** · **[🐛 Report Bug](https://github.com/VishalNandy17/retroc/issues)** · **[✨ Request Feature](https://github.com/VishalNandy17/retroc/issues)**
 
 <br/>
 
